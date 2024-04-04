@@ -9,15 +9,15 @@
 }
 
 // Sidebar
-.sidebar__9e3e2 {
+.sidebar__02e8d {
   min-width: calc(218px + var(--SeIc-width-serverlist));
 }
 
 // Remove
-.premiumLabel_f2cd55 svg,
-.tabBarItemContainer_d74773 svg,
-.tabBarItemContainer_d74773 > div,
-.landingPageTabLink__20c8c .textBadge__45d79 {
+.premiumLabel__68f78 svg,
+.tabBarItemContainer__5d798 svg,
+.tabBarItemContainer__5d798 > div,
+.landingPageTabLink__4f16a .textBadge_f05120 {
   display: none;
 }
 
@@ -26,19 +26,19 @@
 // ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
 
 // Normal
-.sidebar__9e3e2 .item__48dda {
+.sidebar__02e8d .item__48dda {
   text-transform: var(--SeIc-style-text);
   background: var(--SeIc-color-background-normal);
   color: var(--SeIc-color-text-normal);
 }
 
 // Hover
-.sidebar__9e3e2 .item__48dda:hover {
+.sidebar__02e8d .item__48dda:hover {
   color: var(--SeIc-color-text-hover);
 }
 
 // Active
-.sidebar__9e3e2 .selected__5711d.item__48dda {
+.sidebar__02e8d .selected_a523ff.item__48dda {
   color: var(--SeIc-color-text-active);
 }
 
@@ -47,22 +47,22 @@
 // ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
 
 // Nitro Background (Normal)
-.sidebar__9e3e2 .premiumTab__57bdc,
-.sidebar__9e3e2 .serverBoostTabItem_b19426 {
+.sidebar__02e8d .premiumTab_ad0913,
+.sidebar__02e8d .serverBoostTabItem__0267d {
   background: var(--SeIc-color-background-nitro-normal);
   color: var(--SeIc-color-text-nitro-normal);
 }
 
 // Nitro Background (Hover)
-.sidebar__9e3e2 .premiumTab__57bdc:hover,
-.sidebar__9e3e2 .serverBoostTabItem_b19426:hover {
+.sidebar__02e8d .premiumTab_ad0913:hover,
+.sidebar__02e8d .serverBoostTabItem__0267d:hover {
   background: var(--SeIc-color-background-nitro-hover) !important;
   color: var(--SeIc-color-text-nitro-hover);
 }
 
 // Nitro Background (Active)
-.sidebar__9e3e2 .premiumTab__57bdc .selectedBackground_d847da,
-.sidebar__9e3e2 .serverBoostTabItem_b19426.selected__5711d {
+.sidebar__02e8d .premiumTab_ad0913 .selectedBackground__4039b,
+.sidebar__02e8d .serverBoostTabItem__0267d.selected_a523ff {
   background: var(--SeIc-color-background-nitro-active) !important;
   color: var(--SeIc-color-text-nitro-active);
 }
@@ -72,20 +72,20 @@
 // ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
 
 // Nitro Icon (Normal)
-.sidebar__9e3e2 .premiumTab__57bdc.item__48dda::before,
-.sidebar__9e3e2 .serverBoostTabItem_b19426.item__48dda::before  {
+.sidebar__02e8d .premiumTab_ad0913.item__48dda::before,
+.sidebar__02e8d .serverBoostTabItem__0267d.item__48dda::before  {
   background: var(--SeIc-color-icon-nitro-normal) !important;
 }
 
 // Nitro Icon (Hover)
-.sidebar__9e3e2 .premiumTab__57bdc:hover.item__48dda::before,
-.sidebar__9e3e2 .serverBoostTabItem_b19426:hover.item__48dda::before {
+.sidebar__02e8d .premiumTab_ad0913:hover.item__48dda::before,
+.sidebar__02e8d .serverBoostTabItem__0267d:hover.item__48dda::before {
   background: var(--SeIc-color-icon-nitro-hover) !important;
 }
 
 // Nitro Icon (Active)
-.sidebar__9e3e2 .premiumTab__57bdc.selected__5711d.item__48dda::before,
-.sidebar__9e3e2 .serverBoostTabItem_b19426.selected__5711d.item__48dda::before {
+.sidebar__02e8d .premiumTab_ad0913.selected_a523ff.item__48dda::before,
+.sidebar__02e8d .serverBoostTabItem__0267d.selected_a523ff.item__48dda::before {
   background: var(--SeIc-color-icon-nitro-active) !important;
 }
 
@@ -95,7 +95,7 @@
 // ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
 
 // Normal
-.sidebar__9e3e2 .item__48dda::before {
+.sidebar__02e8d .item__48dda::before {
   content: "";
   background: var(--SeIc-color-icon-normal);
   width: 24px;
@@ -108,12 +108,12 @@
 }
 
 // Hover
-.sidebar__9e3e2 .item__48dda:hover::before {
+.sidebar__02e8d .item__48dda:hover::before {
   background: var(--SeIc-color-icon-hover);
 }
 
 // Active
-.sidebar__9e3e2 .selected__5711d.item__48dda::before {
+.sidebar__02e8d .selected_a523ff.item__48dda::before {
   background: var(--SeIc-color-icon-active);
 }
 
@@ -122,7 +122,7 @@
 // ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
 
 // Normal
-.sidebar__9e3e2 .header_f72511 {
+.sidebar__02e8d .header__71a82 {
   color: var(--SeIc-color-header-normal);
   text-transform: var(--SeIc-style-header);
 }
